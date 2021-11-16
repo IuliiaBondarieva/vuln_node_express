@@ -5,7 +5,7 @@ on:
       - main
       - dev
       - sandbox
-  pull_requests:
+  pull_request:
   
 jobs:
   build-and-test:
